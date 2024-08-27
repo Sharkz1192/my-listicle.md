@@ -1,6 +1,7 @@
 # Location 1
 ---
 ## Pilgrim State Psyciatric Center
+**Brentwood**, Long Island New York
 1. a
 2. b
 3. c
@@ -12,6 +13,7 @@
 # Location 2
 ---
 ## Kings Park Psyciatric Center
+**Kings Park**, Long Island New York
 1. a
 2. b
 3. c
