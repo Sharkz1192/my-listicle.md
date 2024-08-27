@@ -13,7 +13,7 @@
 # Location 2
 ---
 ## Kings Park Psyciatric Center
-**Kings Park**, Long Island New York
+[**Kings Park**, Long Island New York](https://en.wikipedia.org/wiki/Kings_Park_Psychiatric_Center)
 1. a
 2. b
 3. c
