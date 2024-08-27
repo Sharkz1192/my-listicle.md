@@ -1,6 +1,6 @@
 # Location 1
 ---
-## Pilgrim State Psyciatric Center
+## **Pilgrim State Psyciatric Center**
 
 # Location 2
 ---
