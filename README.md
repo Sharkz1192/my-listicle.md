@@ -21,4 +21,9 @@
 5. ![Photo 5](https://preservationlongisland.org/wp-content/uploads/2023/12/HISTORICAL_AERIAL.jpeg)
 
 
-   
+---
+# **Other Links**
+1. [**Pilgrim State Pysciatric Center Youtube Exploration 1**](https://www.youtube.com/watch?v=8OB1Jdw4TR4)
+2. [**Pilgrim State Pysciatric Center Youtube Exploration 2**](https://www.youtube.com/watch?v=nZDYUgiD80Q)
+3. [**Kings Park Pysciatric Center Youtube Exploration 1**](https://www.youtube.com/watch?v=BGKbk290NRI)
+4. [**Kings Park Pysciatric Center Youtube Exploration 2**](https://www.youtube.com/watch?v=h0FsTYNUhac)
