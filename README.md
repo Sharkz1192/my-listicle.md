@@ -14,11 +14,11 @@
 ---
 ## Kings Park Psyciatric Center
 [**Kings Park**, Long Island New York](https://en.wikipedia.org/wiki/Kings_Park_Psychiatric_Center)
-1. a
-2. b
-3. c
-4. d
-5. e
+1. ![Photo 1](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/KingsParkPC-Building_93.jpg/1920px-KingsParkPC-Building_93.jpg)
+2. ![Photo 2](https://i.ytimg.com/vi/BGKbk290NRI/maxresdefault.jpg)
+3. ![Photo 3](https://photos.on-this.website/wm/_JMR4BX-BkbzqEq2bKhL5TuR1L4=/wbr/1719864660/15678_20490789705b6b64cd587d4.jpg)
+4. ![Photo 4](https://teenafey.com/wp-content/uploads/2020/04/kppc-newsday.com_.jpg)
+5. ![Photo 5](https://preservationlongisland.org/wp-content/uploads/2023/12/HISTORICAL_AERIAL.jpeg)
 
 
    
